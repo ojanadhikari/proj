@@ -1,0 +1,8 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(«›ύσόÿÿÿÿ8ΛΏέγΰ1
+x
+java:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(ε¤³ÿÿÿÿÿ8ΦΏέγΰ1
+L	java:S106"+Replace this use of System.out by a logger.(ªΔ¬Ρÿÿÿÿÿ8ΫΏέγΰ1
+F	java:S106"+Replace this use of System.out by a logger.(¬ξΤc8άΏέγΰ1
+L	java:S106"+Replace this use of System.out by a logger.(Α£›έώÿÿÿÿ8έΏέγΰ1
+L	java:S106"+Replace this use of System.out by a logger.(ªΔ¬Ρÿÿÿÿÿ8ήΏέγΰ1

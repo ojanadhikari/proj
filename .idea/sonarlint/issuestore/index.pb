@@ -21,3 +21,17 @@ V
 &src/Unit3and4OOP/miniproject/Main.java,8/6/86c8ee5b7a005e10626d91646a638a41fe40ef2e
 K
 src/Unit12Applet/First.java,5/8/58932da37e8e447107c04cd042b9b1fcf9b78d54
+T
+$src/Unit6and9StringAndCore/Lang.java,b/2/b245ad04e667ad965fa267125260d7badc7e74f0
+`
+0src/Unit6and9StringAndCore/strings/StringEx.java,6/6/660f84ea0bfb475ebf7b87d8336e0b517a35bbb6
+Y
+)src/Unit6and9StringAndCore/RandomGen.java,f/5/f5c57ae6e5dad73bbe87b24b01c069b2365a4d1a
+S
+#src/Unit6and9StringAndCore/Vec.java,3/9/39a2874241c2b99e9fd0039469f937830bdf2387
+S
+#src/Unit6and9StringAndCore/Sta.java,a/b/ab5731121282d9a84e8bdd6afca53dfd2410d404
+W
+'src/Unit6and9StringAndCore/Diction.java,4/6/461acbd177b6bdd7f14edf2fb27ceec1d6662f8a
+V
+&src/Unit6and9StringAndCore/Gender.java,b/a/ba19c4265f449c8e3d95ea7d1695e06846f86b96

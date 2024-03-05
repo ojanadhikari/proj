@@ -1,0 +1,10 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(«›ıóüÿÿÿÿ
+‡
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(åüñÄùÿÿÿÿ8‘£»ãà1
+G	java:S106"+Replace this use of System.out by a logger.(Ú´Ô8ªè½ãà1
+L	java:S106"+Replace this use of System.out by a logger.(áã§şûÿÿÿÿ8”…¿ãà1
+L	java:S106"+Replace this use of System.out by a logger.(Í¼ùÿÿÿÿ8Œ¥Áãà1
+G	java:S106"+Replace this use of System.out by a logger.(Ú´Ô8¥Áãà1
+G	java:S106"+Replace this use of System.out by a logger.(Ğ’†8¸¾Äãà1
+G	java:S106"+Replace this use of System.out by a logger.(Ò½µò8‰ˆÅãà1
