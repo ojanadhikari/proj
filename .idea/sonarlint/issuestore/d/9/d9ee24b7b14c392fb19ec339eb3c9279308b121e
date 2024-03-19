@@ -1,0 +1,16 @@
+
+r
+java:S1192"PDefine a constant instead of duplicating this literal "Running thread " 3 times.(ÍêãÒùÿÿÿÿ8ÇßÎ½å1
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—³É
+W
+java:S1161":Add the "@Override" annotation above this method signature(“–ış8ÍßÎ½å1
+L	java:S106"+Replace this use of System.out by a logger.(ÍêãÒùÿÿÿÿ8ÎßÎ½å1
+G	java:S106"+Replace this use of System.out by a logger.(‡ŸÜ8ÎßÎ½å1
+W
+java:S1161":Add the "@Override" annotation above this method signature(“–ış8ÏßÎ½å1
+L	java:S106"+Replace this use of System.out by a logger.(…­æşÿÿÿÿ8ÏßÎ½å1
+G	java:S106"+Replace this use of System.out by a logger.(Û®–¤8ĞßÎ½å1
+W
+java:S1161":Add the "@Override" annotation above this method signature(“–ış8ĞßÎ½å1
+G	java:S106"+Replace this use of System.out by a logger.(ú¢ÅÊ8ÑßÎ½å1
+L	java:S106"+Replace this use of System.out by a logger.(ÇŞÓªùÿÿÿÿ8ÑßÎ½å1

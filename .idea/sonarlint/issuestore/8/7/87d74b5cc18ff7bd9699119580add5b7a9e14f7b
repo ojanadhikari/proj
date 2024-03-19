@@ -1,0 +1,20 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—³É8ê£†¾å1
+G	java:S106"+Replace this use of System.out by a logger.(Çƒ’–8ò£†¾å1
+L	java:S106"+Replace this use of System.out by a logger.(¸Ëšùÿÿÿÿ8ó£†¾å1
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾8ó£†¾å1
+V
+java:S2274":Remove this call to "wait" or move it into a "while" loop.(ç£ŠM8ó£†¾å1
+L	java:S106"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8ó£†¾å1
+F	java:S106"+Replace this use of System.out by a logger.(ù‡×8ô£†¾å1
+L	java:S106"+Replace this use of System.out by a logger.( Áåßùÿÿÿÿ8ô£†¾å1
+L	java:S106"+Replace this use of System.out by a logger.( Õƒ¤úÿÿÿÿ8ô£†¾å1
+L	java:S106"+Replace this use of System.out by a logger.(ã·ÿËÿÿÿÿÿ8ô£†¾å1
+L	java:S106"+Replace this use of System.out by a logger.( Áåßùÿÿÿÿ8ô£†¾å1
+R
+java:S2446"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ8õ£†¾å1
+W
+java:S1161'":Add the "@Override" annotation above this method signature(“–ış8÷£†¾å1
+W
+java:S1161-":Add the "@Override" annotation above this method signature(“–ış8ø£†¾å1

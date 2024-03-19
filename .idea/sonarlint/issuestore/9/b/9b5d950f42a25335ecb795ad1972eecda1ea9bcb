@@ -1,0 +1,15 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—³É8Ãºô½å1
+L	java:S106"+Replace this use of System.out by a logger.(ú…Íœıÿÿÿÿ8Ìºô½å1
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(°¿¦ì8Íºô½å1
+_
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(©Ø®8Íºô½å1
+G	java:S106"+Replace this use of System.out by a logger.(°¿¦ì8Íºô½å1
+L	java:S106"+Replace this use of System.out by a logger.(¹¸’Ëüÿÿÿÿ8Íºô½å1
+W
+java:S1161":Add the "@Override" annotation above this method signature(“–ış8Ïºô½å1
+W
+java:S1161$":Add the "@Override" annotation above this method signature(“–ış8Ğºô½å1
+L
+java:S1197*"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8Òºô½å1
