@@ -1,0 +1,15 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ËÒÒ–8…ìÿå1
+‰
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8–ìÿå1
+]
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ãÖè8˜ìÿå1
+G	java:S106"+Replace this use of System.out by a logger.(«‹Îõ8™ìÿå1
+G	java:S106"+Replace this use of System.out by a logger.(’ä±‡8šìÿå1
+c
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ú…¦Àıÿÿÿÿ8šìÿå1
+L	java:S106"+Replace this use of System.out by a logger.(óõ‹¬úÿÿÿÿ8šìÿå1
+L	java:S106"+Replace this use of System.out by a logger.(­¤¶úÿÿÿÿ8›ìÿå1
+]
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(Øçš8›ìÿå1
+L	java:S106"+Replace this use of System.out by a logger.(Öš­øúÿÿÿÿ8œìÿå1

@@ -20,5 +20,7 @@ public class Diction {
         System.out.println(dictionary.remove(2));
         System.out.println(dictionary.size());
 
+
+
     }
 }
