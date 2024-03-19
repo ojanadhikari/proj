@@ -1,11 +1,11 @@
 
 u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(„º²
 8Þ¢¦‘å1
-l
-java:S2095"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(´¢Žß8â¢¦‘å1
 o
 java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(œ¬ÅÈûÿÿÿÿ8â¢¦‘å1
-L	java:S106"+Replace this use of System.out by a logger.(·šÀýýÿÿÿÿ8¬˜¨‘å1
-G	java:S106"+Replace this use of System.out by a logger.(ÏÅ…§8¬˜¨‘å1
+l
+java:S2095"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(´¢Žß8â¢¦‘å1
+L	java:S106"+Replace this use of System.out by a logger.(·šÀýýÿÿÿÿ8¬˜¨‘å1
+G	java:S106"+Replace this use of System.out by a logger.(ÏÅ…§8¬˜¨‘å1
 Y
 java:S1128"7Remove this unused import 'java.io.ObjectOutputStream'.(é»Óºûÿÿÿÿ8è¢¦‘å1

@@ -16,6 +16,8 @@ public class Deser {
         FileInputStream fileInputStream = new FileInputStream("person.txt");
         ObjectInputStream objectInputStream = new ObjectInputStream(fileInputStream);
         Person person = (Person) objectInputStream.readObject();
+        fileInputStream.close();
+        objectInputStream.close();
         System.out.println(person.id);
         System.out.println(person.name);
     }
