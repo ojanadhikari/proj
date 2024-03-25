@@ -2,14 +2,12 @@ package Unit12Applet;
 
 import java.applet.Applet;
 import java.awt.Graphics;
-public class First extends Applet{
 
-public void paint(Graphics g){
-g.drawString("welcome to applet",150,150);
+public class First extends Applet {
+
+    public void paint(Graphics g) {
+        g.drawString("welcome to applet", 20, 20);
+    }
+
 }
 
-}
-/*
-<applet code="First.class" codebase = "AppletEx" width="300" height="300">
-</applet>
-*/
