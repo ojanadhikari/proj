@@ -7,14 +7,16 @@ G	java:S106"+Replace this use of System.out by a logger.(¥¥ïø8ÖÊ¢¾å1
 H
 java:S1860"&Synchronize on a new "Object" instead.(öÈ­ıÿÿÿÿ8ÖÊ¢¾å1
 L	java:S106"+Replace this use of System.out by a logger.(ç‹±°ûÿÿÿÿ8ÖÊ¢¾å1
-j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒË æ8ÖÊ¢¾å1
+G	java:S106"+Replace this use of System.out by a logger.(Å¸åÓ8×Ê¢¾å1
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒË æ8ÖÊ¢¾å1
 H
-java:S1860"&Synchronize on a new "Object" instead.(öÈ­ıÿÿÿÿ8×Ê¢¾å1
-G	java:S106"+Replace this use of System.out by a logger.(Î—œ¿8×Ê¢¾å1
+java:S1860"&Synchronize on a new "Object" instead.(öÈ­ıÿÿÿÿ8×Ê¢¾å1
+G	java:S106"+Replace this use of System.out by a logger.(Î—œ¿8×Ê¢¾å1
 C
-java:S1860"&Synchronize on a new "Object" instead.(Ü²€ÿ8×Ê¢¾å1
-G	java:S106"+Replace this use of System.out by a logger.(­ç­§8×Ê¢¾å1
+java:S1860"&Synchronize on a new "Object" instead.(Ü²€ÿ8×Ê¢¾å1
+G	java:S106"+Replace this use of System.out by a logger.(­ç­§8¦Ç¯¾å1
+L	java:S106"+Replace this use of System.out by a logger.(‹…ˆÅúÿÿÿÿ8ùĞ°¾å1
 W
-java:S1161%":Add the "@Override" annotation above this method signature(“–ış8ÙÊ¢¾å1
+java:S1161'":Add the "@Override" annotation above this method signature(“–ış8ÙÊ¢¾å1
 W
-java:S1161*":Add the "@Override" annotation above this method signature(“–ış8ÚÊ¢¾å1
+java:S1161,":Add the "@Override" annotation above this method signature(“–ış8ÚÊ¢¾å1

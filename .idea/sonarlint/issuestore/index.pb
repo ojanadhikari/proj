@@ -56,10 +56,6 @@ N
 person.txt,2/1/2143905746c5d4f60466ded5100cd95d1fe67487
 P
  src/Unit8IO/serialize/Deser.java,0/d/0df7645867f5c8318685d88d54f43644ded294cc
-;
-src/cv.html,7/1/710f56403f3df8a467bf6ce75138b71a8b3ecb33
-P
- src/Unit7Thread/ThreadClass.java,5/c/5cc0917044edc0d78b07c4b0ded28526eb42a115
 R
 "src/Unit7Thread/ThreadExample.java,3/1/3188f30454aa71e2068d9086258a03af45764726
 Z
@@ -76,3 +72,17 @@ M
 src/Unit7Thread/Intercom.java,8/7/87d74b5cc18ff7bd9699119580add5b7a9e14f7b
 M
 src/Unit7Thread/DeadLock.java,b/c/bc211e3276d4d3d8e4be661118c7209ae3fcb2b3
+@
+src/applet1.html,9/0/900022075fec06bf121d36e8c20195e36b3ff15f
+M
+src/Unit12Applet/Applet2.java,6/1/612c1f82d8f956314a5b70b7d6a5c8346d722c6d
+J
+src/Unit12Applet/Form.java,1/6/16d1f440f25954ee9a6a451988508203d96da942
+@
+src/applet3.html,9/2/92952c49a51d97856354a4b792555d1e68f6f25f
+J
+src/Unit12Applet/Anim.java,1/f/1fa8b75223033e94c5276618a80ce9829917b24d
+=
+src/anim.html,f/b/fb4455d7c1e1f007ec91667e95975cc193d11bf5
+@
+src/applet2.html,d/b/db3f4f62b89889ad659be8a4d13e335fbb7dc716

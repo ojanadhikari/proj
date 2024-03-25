@@ -18,6 +18,7 @@ class MyThread{
                 System.out.println("Thread 1: locked resource 2 "+resource2);
             }
         }
+        System.out.println("Method A Completed");
     }
 
     void MethodB() {
@@ -27,6 +28,7 @@ class MyThread{
                 System.out.println("Thread 2: locked resource 1 "+resource1);
             }
         }
+        System.out.println("Method B completed");
     }
 }
 

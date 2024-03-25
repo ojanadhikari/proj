@@ -35,8 +35,8 @@ class TE2 extends Thread{
 }
 public class ThreadExecution {
     public static void main(String[] args) {
-        TE1 te1 = new TE1();
-        te1.start();
+//        TE1 te1 = new TE1();
+//        te1.start();
 
         TE2 te2 = new TE2();
         te2.start();
